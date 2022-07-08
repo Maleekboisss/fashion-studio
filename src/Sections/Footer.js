@@ -174,7 +174,7 @@ const Footer = () => {
               target="_blank"
               rel="noreferrer"
             >
-              Maleekcodes
+              Maleekboisss
             </a>
           </span>
         </Bottom>
