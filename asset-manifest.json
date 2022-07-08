@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/fashion-studio/static/css/main.81ed1196.css",
+    "main.js": "/fashion-studio/static/js/main.27d06ce5.js",
+    "static/js/730.6f3c12a8.chunk.js": "/fashion-studio/static/js/730.6f3c12a8.chunk.js",
+    "static/js/986.83d91a63.chunk.js": "/fashion-studio/static/js/986.83d91a63.chunk.js",
+    "static/media/4.webp": "/fashion-studio/static/media/4.dbd0913cf5e9f159ff64.webp",
+    "static/media/2.webp": "/fashion-studio/static/media/2.e013c9ddd61e9214b38d.webp",
+    "static/media/12.webp": "/fashion-studio/static/media/12.6ad80e41aa2cb09e24de.webp",
+    "static/media/5.webp": "/fashion-studio/static/media/5.30daca70dfc1a0990f0a.webp",
+    "static/media/10.webp": "/fashion-studio/static/media/10.90707f6e4b505cc7e68c.webp",
+    "static/media/11.webp": "/fashion-studio/static/media/11.d1f73e052890ac269b54.webp",
+    "static/media/1.webp": "/fashion-studio/static/media/1.824f35c6a91dabca3429.webp",
+    "static/media/13.webp": "/fashion-studio/static/media/13.6ef5b797e53af78d2b12.webp",
+    "static/media/14.webp": "/fashion-studio/static/media/14.501abeb94f8e109b7657.webp",
+    "static/media/6.webp": "/fashion-studio/static/media/6.682bc11654a4d3e0232d.webp",
+    "static/media/7.webp": "/fashion-studio/static/media/7.f50766c53d080a77ec9f.webp",
+    "static/media/9.webp": "/fashion-studio/static/media/9.4a51510818585497f224.webp",
+    "static/media/3.webp": "/fashion-studio/static/media/3.25b95f1332e444dd1ce7.webp",
+    "static/media/8.webp": "/fashion-studio/static/media/8.784d99cb9e416f779c98.webp",
+    "static/media/15.webp": "/fashion-studio/static/media/15.846d6b9e181c2dc1cdd7.webp",
+    "static/media/kaushan-script-all-400-normal.woff": "/fashion-studio/static/media/kaushan-script-all-400-normal.ba623d1ca520a2a711d2.woff",
+    "static/media/sirin-stencil-all-400-normal.woff": "/fashion-studio/static/media/sirin-stencil-all-400-normal.e1b8add18154b5d65682.woff",
+    "static/media/kaushan-script-latin-400-normal.woff2": "/fashion-studio/static/media/kaushan-script-latin-400-normal.2855d49bba6b2cb7bec5.woff2",
+    "static/media/sirin-stencil-latin-400-normal.woff2": "/fashion-studio/static/media/sirin-stencil-latin-400-normal.f668f96beabdc683277b.woff2",
+    "static/media/kaushan-script-latin-ext-400-normal.woff2": "/fashion-studio/static/media/kaushan-script-latin-ext-400-normal.5a05e21384fe4b1b9db7.woff2",
+    "index.html": "/fashion-studio/index.html",
+    "main.81ed1196.css.map": "/fashion-studio/static/css/main.81ed1196.css.map",
+    "main.27d06ce5.js.map": "/fashion-studio/static/js/main.27d06ce5.js.map",
+    "730.6f3c12a8.chunk.js.map": "/fashion-studio/static/js/730.6f3c12a8.chunk.js.map",
+    "986.83d91a63.chunk.js.map": "/fashion-studio/static/js/986.83d91a63.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81ed1196.css",
+    "static/js/main.27d06ce5.js"
+  ]
+}
